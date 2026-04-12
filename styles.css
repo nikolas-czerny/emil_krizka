@@ -1157,15 +1157,6 @@ section {
     overflow: hidden;
 }
 
-/* první 2 recenze celé / skoro celé */
-.review-card--photo-lg .review-card__overlay {
-    min-height: 230px;
-}
-
-.review-card--photo-lg blockquote {
-    -webkit-line-clamp: 8;
-}
-
 /* mobil */
 @media (max-width: 760px) {
     .review-card--photo {
