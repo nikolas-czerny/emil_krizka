@@ -626,8 +626,8 @@ section {
 
 .review-card__overlay {
     position: absolute;
-    left: 16px;
-    right: 16px;
+    left: 5px;
+    right: 5px;
     bottom: 16px;
     z-index: 2;
     padding: 14px 15px;
@@ -989,8 +989,8 @@ section {
     }
 
     .review-card__overlay {
-        left: 12px;
-        right: 12px;
+        left: 4px;
+        right: 4px;
         bottom: 12px;
         padding: 12px 13px;
         border-radius: 16px;
@@ -1114,4 +1114,8 @@ section {
     .consultation-template__text {
         font-size: 0.96rem;
     }
+}
+
+.approach-h2-span {
+    display: block;
 }
