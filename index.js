@@ -26,4 +26,3 @@ copyBtn.addEventListener("click", (e) => {
     e.stopPropagation();
     copyTemplateText();
 });
-
